@@ -1,6 +1,6 @@
 0) Source : https://www.twilio.com/blog/node-js-proxy-server
 1) npm init
-2) npm i express http-proxy-middleware
+2) npm i express http-proxy-middleware OR npm install
 3) URL Mapping ::
     * localhost:6000/json_placeholder_proxy/posts/1            >>>>    https://jsonplaceholder.typicode.com/posts/1
     * localhost:6000/json_placeholder_proxy/posts              >>>>    https://jsonplaceholder.typicode.com/posts
